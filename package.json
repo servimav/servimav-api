@@ -1,0 +1,19 @@
+{
+	"name": "servimav-api",
+	"version": "0.0.1",
+	"description": "SERVIMAV API Client",
+	"main": "src/index.ts",
+	"repository": "https://github.com/servimav/servimav-api",
+	"author": "AdriCQ",
+	"license": "MIT",
+	"private": false,
+	"scripts": {
+		"build": "npx tsc"
+	},
+	"devDependencies": {
+		"typescript": "^4.9.4"
+	},
+	"dependencies": {
+		"axios": "^1.2.3"
+	}
+}
