@@ -1,6 +1,6 @@
 {
 	"name": "@servimav/api",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "SERVIMAV API Client",
 	"main": "src/index.ts",
 	"repository": "https://github.com/servimav/servimav-api",
