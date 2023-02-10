@@ -1,5 +1,5 @@
 {
-	"name": "servimav-api",
+	"name": "@servimav/api",
 	"version": "0.0.1",
 	"description": "SERVIMAV API Client",
 	"main": "src/index.ts",
